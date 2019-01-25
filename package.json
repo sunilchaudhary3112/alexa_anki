@@ -1,0 +1,20 @@
+{
+  "name": "alexa-anki",
+  "version": "1.0.0",
+  "description": "Alexa integration with anki car",
+  "main": "service.js",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "alexa-app": "^4.2.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "pubsub-js": "^1.5.4",
+    "underscore": "^1.8.3",
+    "util": "^0.10.3"
+  },
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon"
+  }
+}
