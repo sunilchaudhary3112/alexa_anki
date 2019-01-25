@@ -2,7 +2,7 @@
   "name": "alexa-anki",
   "version": "1.0.0",
   "description": "Alexa integration with anki car",
-  "main": "service.js",
+  "main": "index.js",
   "author": "",
   "license": "",
   "dependencies": {
